@@ -817,10 +817,11 @@ blockquote *:last-child {
   margin-bottom: 0;
 }
 
+/* 
 ::selection {
   background-color: #79ffe1;
   color: #000;
-}
+} */
 
 .btn.jsx-1470089603 {
   box-sizing: border-box;
